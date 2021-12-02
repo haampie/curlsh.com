@@ -27,3 +27,9 @@ $ curl -L https://nixos.org/nix/install | sh
 ```console
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
+
+## [zoxide](https://github.com/ajeetdsouza/zoxide#step-1-install-zoxide)
+
+```console
+curl -sS https://webinstall.dev/zoxide | bash
+```
