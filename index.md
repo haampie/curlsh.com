@@ -16,6 +16,18 @@ chmod +x codecov
 ./codecov -t ${CODECOV_TOKEN}
 ```
 
+## [homebrew](https://brew.sh/)
+
+```console
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+## [oh-my-zsh](https://ohmyz.sh/)
+
+```console
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 ## [nix](https://nixos.org/download.html)
 
 ```console
