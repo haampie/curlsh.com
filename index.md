@@ -5,9 +5,9 @@
 
 # curl | sh
 
-A curated list of questionable official installation instructions
+A curated list of questionable installation instructions
 
-## [codecov](https://docs.codecov.com/docs/codecov-uploader)
+## [🔗 codecov](https://docs.codecov.com/docs/codecov-uploader)
 
 ```console
 curl -Os https://uploader.codecov.io/latest/linux/codecov
@@ -16,31 +16,31 @@ chmod +x codecov
 ./codecov -t ${CODECOV_TOKEN}
 ```
 
-## [homebrew](https://brew.sh/)
+## [🔗 homebrew](https://brew.sh/)
 
 ```console
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-## [oh-my-zsh](https://ohmyz.sh/)
+## [🔗 oh-my-zsh](https://ohmyz.sh/)
 
 ```console
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-## [nix](https://nixos.org/download.html)
+## [🔗 nix](https://nixos.org/download.html)
 
 ```console
 $ curl -L https://nixos.org/nix/install | sh
 ```
 
-## [rustup](https://www.rust-lang.org/tools/install)
+## [🔗 rustup](https://www.rust-lang.org/tools/install)
 
 ```console
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-## [zoxide](https://github.com/ajeetdsouza/zoxide#step-1-install-zoxide)
+## [🔗 zoxide](https://github.com/ajeetdsouza/zoxide#step-1-install-zoxide)
 
 ```console
 curl -sS https://webinstall.dev/zoxide | bash
