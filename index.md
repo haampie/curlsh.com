@@ -5,7 +5,7 @@
 
 # curl | sh
 
-A curated list of snippets on the web that encourage unsafe installations.
+A curated list of questionable official installation instructions
 
 ## [codecov](https://docs.codecov.com/docs/codecov-uploader)
 
