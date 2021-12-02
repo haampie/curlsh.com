@@ -22,6 +22,13 @@ chmod +x codecov
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+## [🔗 miniconda](https://docs.anaconda.com/anaconda/install/silent-mode/#linux-macos)
+
+```console
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh
+bash ~/miniconda.sh -b -p $HOME/miniconda
+```
+
 ## [🔗 oh-my-zsh](https://ohmyz.sh/)
 
 ```console
