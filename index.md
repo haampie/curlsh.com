@@ -5,7 +5,7 @@
 
 # curl | sh
 
-A curated list of snippets on the web that encourage you to skip checksum validation.
+A curated list of snippets on the web that encourage unsafe installations.
 
 ## [codecov](https://docs.codecov.com/docs/codecov-uploader)
 
