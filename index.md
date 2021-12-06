@@ -41,6 +41,12 @@ $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/instal
 $ curl -L https://nixos.org/nix/install | sh
 ```
 
+## [🔗 poetry](https://python-poetry.org/docs/master/#installation)
+
+```console
+curl -sSL https://install.python-poetry.org | python3 -
+```
+
 ## [🔗 rustup](https://www.rust-lang.org/tools/install)
 
 ```console
