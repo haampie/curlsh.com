@@ -35,6 +35,12 @@ bash ~/miniconda.sh -b -p $HOME/miniconda
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+##[🔗 pdm](https://pdm.fming.dev/#recommended-installation-method)
+
+```console
+curl -sSL https://raw.githubusercontent.com/pdm-project/pdm/main/install-pdm.py | python -
+```
+
 ## [🔗 nix](https://nixos.org/download.html)
 
 ```console
