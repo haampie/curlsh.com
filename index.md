@@ -41,6 +41,12 @@ $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/instal
 $ curl -L https://nixos.org/nix/install | sh
 ```
 
+## [🔗 PDM](https://pdm.fming.dev/#recommended-installation-method)
+
+```console
+curl -sSL https://raw.githubusercontent.com/pdm-project/pdm/main/install-pdm.py | python -
+```
+
 ## [🔗 poetry](https://python-poetry.org/docs/master/#installation)
 
 ```console
