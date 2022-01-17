@@ -22,6 +22,14 @@ chmod +x codecov
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+## [🔗 Intel oneAPI toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=linux&distributions=webdownload&options=online)
+
+```console
+wget https://registrationcenter-download.intel.com/akdlm/irc_nas/18445/l_BaseKit_p_2022.1.1.119.sh
+
+sudo sh ./l_BaseKit_p_2022.1.1.119.sh
+```
+
 ## [🔗 miniconda](https://docs.anaconda.com/anaconda/install/silent-mode/#linux-macos)
 
 ```console
