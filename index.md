@@ -7,6 +7,12 @@
 
 A curated list of questionable installation instructions
 
+## [🔗 act](https://github.com/nektos/act#bash-script)
+
+```console
+curl https://raw.githubusercontent.com/nektos/act/master/install.sh | sudo bash
+```
+
 ## [🔗 codecov](https://docs.codecov.com/docs/codecov-uploader)
 
 ```console
