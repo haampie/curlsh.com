@@ -73,6 +73,13 @@ curl -sSL https://install.python-poetry.org | python3 -
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
+## [🔗 vim-plug](https://www.rust-lang.org/tools/install)
+
+```console
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+```
+
 ## [🔗 zoxide](https://github.com/ajeetdsouza/zoxide#step-1-install-zoxide)
 
 ```console
